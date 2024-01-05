@@ -17,6 +17,7 @@ The dataset, sourced from the HiCounselor website, comprises 9993 sales transact
 
 ## Dashboards:
 
+![HR Analytics Dashboard](https://github.com/Jihen-Belhoudi/Superstore-Sales-Analysis-using-Power-BI/blob/main/1.PNG)
 ## KPIs:
 Over the past four years, Superstore generated $2.3 million in revenue with a gross profit of $286.41K. The average discount of 15.62% suggests an influence on profit margin, explored further in the Financial Analysis dashboard.
 
@@ -28,9 +29,11 @@ Top contributing states were California, Washington, and New York. Marketing eff
 Technology emerged as the leading performer in both sales and profit, with Phones as a standout sub-category.
 Furniture showed significant sales but lower profit margin, with Tables operating at a loss. Concerns about cost structure or pricing strategy arise for Tables, Bookcases, and Supplies.
 
-##Customer Segments and Preferences:
+## Customer Segments and Preferences:
 Consumer segment is the largest; targeted marketing can increase sales. Corporate and Home Office segments offer growth opportunities.
 Most customers prefer Standard Class shipping, prioritizing cost savings over speed.
+
+![HR Analytics Dashboard](https://github.com/Jihen-Belhoudi/Superstore-Sales-Analysis-using-Power-BI/blob/main/2.PNG)
 
 ## Top three customers suggest a potential loyalty gap; 
 introducing exclusive offers and a loyalty program can address this.

@@ -25,27 +25,28 @@ Over the past four years, Superstore generated $2.3 million in revenue with a gr
 The West region led in revenue with $725K, followed by the East region with $678K.
 Top contributing states were California, Washington, and New York. Marketing efforts and inventory optimization should focus on these states.
 
-## Sales vs. Profit by Category and Sub-Category:
-Technology emerged as the leading performer in both sales and profit, with Phones as a standout sub-category.
-Furniture showed significant sales but lower profit margin, with Tables operating at a loss. Concerns about cost structure or pricing strategy arise for Tables, Bookcases, and Supplies.
-
 ## Customer Segments and Preferences:
 Consumer segment is the largest; targeted marketing can increase sales. Corporate and Home Office segments offer growth opportunities.
 Most customers prefer Standard Class shipping, prioritizing cost savings over speed.
 
+## Sales vs. Profit by Category and Sub-Category:
+Technology emerged as the leading performer in both sales and profit, with Phones as a standout sub-category.
+Furniture showed significant sales but lower profit margin, with Tables operating at a loss. Concerns about cost structure or pricing strategy arise for Tables, Bookcases, and Supplies.
+
+
 ![HR Analytics Dashboard](https://github.com/Jihen-Belhoudi/Superstore-Sales-Analysis-using-Power-BI/blob/main/2.PNG)
 
-## Top three customers suggest a potential loyalty gap; 
-introducing exclusive offers and a loyalty program can address this.
 ## Top Three Cities by Sales Over Time:
 Los Angeles and New York City consistently lead in sales.
 Seattle experienced a significant rebound in 2022.
 
-## Top 10 Cities by Quantity:
+## Top Cities by Quantity:
 New York City and Los Angeles dominate in product quantities across all categories.
 
-## Quantity by Sub-Category and State:
-Binders, Paper, and Furnishings consistently popular across California, New York, and Washington.
+## Quantity by Category and City:
+Binders, Paper, and Furnishings consistently popular across Chicago and Columbus.
+
+![HR Analytics Dashboard](https://github.com/Jihen-Belhoudi/Superstore-Sales-Analysis-using-Power-BI/blob/main/3.PNG)
 
 ## Segment by Sales and Profit Over Time:
 Consumer segment leads in sales growth, with Home Office segment showing significant sales increase in 2022.
@@ -54,12 +55,15 @@ Corporate segment's profit in 2022 didn't grow proportionally to sales.
 ## Ship Mode by Sales and Profit Over Time:
 Standard Class remains dominant, but First Class and Second Class saw substantial growth in 2022.
 
+## Top 10 Cities by Orders:
+New York City and Los Angeles had the most orders, underscoring their importance to Superstore's overall sales success.
+
+![HR Analytics Dashboard](https://github.com/Jihen-Belhoudi/Superstore-Sales-Analysis-using-Power-BI/blob/main/4.PNG)
+
+
 ## Profit by Segment and Category:
 Consumer segment dominates profit in Technology, indicating consumer-oriented tech products as most profitable.
 Furniture is the least profitable category across all segments, suggesting areas for cost optimization or pricing adjustments.
-
-## Top 10 Cities by Orders:
-New York City and Los Angeles had the most orders, underscoring their importance to Superstore's overall sales success.
 
 ## Conclusion:
 This comprehensive analysis provides Superstore with valuable insights into its sales performance and customer behavior over the past four years. Key highlights include the dominance of the West region in revenue, the success of the Technology category, and the need for focused strategies in the Consumer segment. The shift in shipping preferences and the potential for customer loyalty programs also present opportunities for growth.
